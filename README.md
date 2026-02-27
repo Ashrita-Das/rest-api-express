@@ -1,4 +1,4 @@
-# REST API (Todos)
+# REST API 
 
 A small Express-based REST API for managing todos, backed by a LibSQL database.
 
